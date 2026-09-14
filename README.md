@@ -16,4 +16,5 @@ Casos de prueba: Inserción y atención normal secuencial. Prueba de desbordamie
 
 Limitaciones y mejoras: La estructura tiene un tamaño máximo inmutable definido en tiempo de compilación. Se podría mejorar utilizando colecciones dinámicas de Java.
 
-Enlace al video: pendiennte
+Enlace al video: https://drive.google.com/file/d/1os08SxBIAUPwkGZSN7i6NUEeP5nb_Mb8/view?usp=sharing
+
